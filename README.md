@@ -37,7 +37,7 @@ The application contains the following key components:
 * Cross out a task (strikes it visually by changing the font color)
 * Uncross a task (resets the color back)
 * Delete all crossed-out tasks
-* Save the current list to a `.dat` file
+* Save the current list to a `.data` file
 * Load a previously saved list from file
 * Clear the entire task list
 ## **6. Workflow**
