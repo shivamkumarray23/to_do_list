@@ -85,3 +85,13 @@ The application contains the following key components:
 ## **11. Conclusion**
 
 The To-Do List project using Python’s `tkinter` is a practical and interactive application that demonstrates important programming concepts like GUI development, file I/O, and modular coding. It is an excellent hands-on project for beginners to learn how to build and manage real-world applications.
+
+
+ ## **12.OUTPUT**
+ 
+![Screenshot 2025-07-03 212051](https://github.com/user-attachments/assets/43ad04b4-4c8e-4d90-aff5-2af9a264e886)
+![Screenshot 2025-07-03 212111](https://github.com/user-attachments/assets/268b7044-5112-4082-8a2e-a4d530fcdcbe)
+![Screenshot 2025-07-03 212152](https://github.com/user-attachments/assets/1e74e0f2-a505-4e15-b329-f405696d8569)
+
+![Screenshot 2025-07-03 212217](https://github.com/user-attachments/assets/a9a0bc6d-c31d-49ac-87ed-d0b79feade8e)
+![Screenshot 2025-07-03 212228](https://github.com/user-attachments/assets/96c80aa4-c274-47c5-ace5-442b0252a557)
