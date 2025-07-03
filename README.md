@@ -46,7 +46,7 @@ The application contains the following key components:
 2. A pre-filled list of dummy tasks is displayed.
 3. The user can type a new task in the entry box and click **Add Task**.
 4. Tasks can be selected and modified (delete/cross/uncross).
-5. The list can be saved or loaded from a `.dat` file.
+5. The list can be saved or loaded from a `.data` file.
 6. The application keeps running until **Exit** is selected from the menu.
 
 ## **7. Sample Input/Output**
@@ -56,7 +56,7 @@ The application contains the following key components:
 | Add "Finish homework"     | Task appears in the list                 |
 | Delete selected task      | Task removed from the list               |
 | Cross out "Go to college" | Task turns light gray (visual strikeout) |
-| Save the list             | Creates a `.dat` file with tasks         |
+| Save the list             | Creates a `.data` file with tasks         |
 | Load a file               | Loads tasks from the selected file       |
 
 ## **8. Advantages**
