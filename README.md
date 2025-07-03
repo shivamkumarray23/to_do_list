@@ -71,7 +71,7 @@ The application contains the following key components:
 
 * No support for task priorities or categories.
 * No confirmation prompts for delete actions.
-* File format `.dat` is not human-readable.
+* File format `.data` is not human-readable.
 * Tasks are not timestamped.
 
 ## **10. Future Enhancements**
@@ -79,8 +79,8 @@ The application contains the following key components:
 * Add a calendar/date picker for deadlines.
 * Enable drag-and-drop task reordering.
 * Allow users to set reminders.
-* Use SQLite or JSON instead of `.dat` for better readability and integration.
-* Improve UI with modern themes using `ttk` or custom styles.
+* Use SQLite or JSON instead of `.data` for better readability and integration.
+* Improve UI with modern themes using `tk` or custom styles.
 
 ## **11. Conclusion**
 
